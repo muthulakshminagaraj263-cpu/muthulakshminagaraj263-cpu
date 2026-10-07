@@ -1,7 +1,7 @@
 # Hi there, I'm Muthulakshmi Nagaraj 👋
 
 ### 👩‍💻 About Me
-- 🎓 Computer Science Student | Aspiring Developer
+- 🎓 Information Technology Student | Aspiring Developer
 - 🌱 Currently learning: Java, Python & Web Development
 - 💡 Passionate about building cool projects
 - 🎯 Goal: To get placed in a top tech company!
